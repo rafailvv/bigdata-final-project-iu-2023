@@ -1,11 +1,11 @@
-movieId,title,avg_rating,rating_count
-318,Shawshank Redemption, The (1994),4.446990499637029,63366
-858,Godfather, The (1972),4.364732196832306,41355
-50,Usual Suspects, The (1995),4.334372207803259,47006
-527,Schindler's List (1993),4.310175010988133,50054
-1221,Godfather: Part II, The (1974),4.275640557704942,27398
-2019,Seven Samurai (Shichinin no samurai) (1954),4.2741796572216,11611
-904,Rear Window (1954),4.271333600779414,17449
-7502,Band of Brothers (2001),4.263182346109176,4305
-912,Casablanca (1942),4.258326830670664,24349
-922,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),4.256934865900383,6525
+movieId|title|avg_rating|rating_count
+318|Shawshank Redemption, The (1994)|4.446990499637029|63366
+858|Godfather, The (1972)|4.364732196832306|41355
+50|Usual Suspects, The (1995)|4.334372207803259|47006
+527|Schindler's List (1993)|4.310175010988133|50054
+1221|Godfather: Part II, The (1974)|4.275640557704942|27398
+2019|Seven Samurai (Shichinin no samurai) (1954)|4.2741796572216|11611
+904|Rear Window (1954)|4.271333600779414|17449
+7502|Band of Brothers (2001)|4.263182346109176|4305
+912|Casablanca (1942)|4.258326830670664|24349
+922|Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)|4.256934865900383|6525

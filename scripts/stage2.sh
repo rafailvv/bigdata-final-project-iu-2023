@@ -22,5 +22,5 @@ echo "genres,avg_rating" >output/eda/q4.csv
 cat /root/q4/* >>output/eda/q4.csv
 
 hive -f sql/eda/q5.hql
-echo "movieId,title,avg_rating,rating_count" >output/eda/q5.csv
+echo "movieId|title|avg_rating|rating_count" >output/eda/q5.csv
 cat /root/q5/* >>output/eda/q5.csv
