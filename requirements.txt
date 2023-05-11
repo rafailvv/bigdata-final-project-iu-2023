@@ -2,3 +2,4 @@ pylint
 pyspark
 pandas
 streamlit
+plotly
