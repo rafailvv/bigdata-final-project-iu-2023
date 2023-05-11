@@ -2,9 +2,9 @@
 - `scripts/postprocess.sh` is a file with postprocess bash script
 - `scripts/postprocess.sh` is a file with postprocess bash script
 - `scripts/stage1.sh` is a file with bash script for the first project stage `Data collection and Ingestion`
-- `scripts/stage2.sh` is a file with bash script for the second project stage `Data collection and Ingestion`
-- `scripts/stage3.sh` is a file with bash script for the third project stage `Data collection and Ingestion`
-- `scripts/stage4.sh` is a file with bash script for the fourth project stage `Data collection and Ingestion`
+- `scripts/stage2.sh` is a file with bash script for the second project stage `Data Storage/Preparation & EDA`
+- `scripts/stage3.sh` is a file with bash script for the third project stage `Predictive Data Analytics`
+- `scripts/stage4.sh` is a file with bash script for the fourth project stage `Presentation & Delivery`
 
 **ALS Model with Features (Genres):**
 

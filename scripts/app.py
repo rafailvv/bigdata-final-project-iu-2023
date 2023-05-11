@@ -141,7 +141,7 @@ From our results, it seems that the ALS model with movie features (genres) perfo
     st.plotly_chart(fig)
 
     st.header('Prediction Results')
-    st.markdown("TODO")
+    st.markdown("Tables represent 30% of the test split and predictions for each model.")
     st.subheader('ALS: with movie features')
     st.dataframe(als_features_predictions, use_container_width=True)
     st.subheader('ALS: without movie features')
